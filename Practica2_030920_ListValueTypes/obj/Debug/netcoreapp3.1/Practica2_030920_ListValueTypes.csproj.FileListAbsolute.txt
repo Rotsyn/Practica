@@ -1,0 +1,11 @@
+D:\Documents\БАСО-02-19\Practica2_030920_ListValueTypes\obj\Debug\netcoreapp3.1\Practica2_030920_ListValueTypes.csprojAssemblyReference.cache
+D:\Documents\БАСО-02-19\Practica2_030920_ListValueTypes\obj\Debug\netcoreapp3.1\Practica2_030920_ListValueTypes.AssemblyInfoInputs.cache
+D:\Documents\БАСО-02-19\Practica2_030920_ListValueTypes\obj\Debug\netcoreapp3.1\Practica2_030920_ListValueTypes.AssemblyInfo.cs
+D:\Documents\БАСО-02-19\Practica2_030920_ListValueTypes\bin\Debug\netcoreapp3.1\Practica2_030920_ListValueTypes.exe
+D:\Documents\БАСО-02-19\Practica2_030920_ListValueTypes\bin\Debug\netcoreapp3.1\Practica2_030920_ListValueTypes.deps.json
+D:\Documents\БАСО-02-19\Practica2_030920_ListValueTypes\bin\Debug\netcoreapp3.1\Practica2_030920_ListValueTypes.runtimeconfig.json
+D:\Documents\БАСО-02-19\Practica2_030920_ListValueTypes\bin\Debug\netcoreapp3.1\Practica2_030920_ListValueTypes.runtimeconfig.dev.json
+D:\Documents\БАСО-02-19\Practica2_030920_ListValueTypes\bin\Debug\netcoreapp3.1\Practica2_030920_ListValueTypes.dll
+D:\Documents\БАСО-02-19\Practica2_030920_ListValueTypes\bin\Debug\netcoreapp3.1\Practica2_030920_ListValueTypes.pdb
+D:\Documents\БАСО-02-19\Practica2_030920_ListValueTypes\obj\Debug\netcoreapp3.1\Practica2_030920_ListValueTypes.dll
+D:\Documents\БАСО-02-19\Practica2_030920_ListValueTypes\obj\Debug\netcoreapp3.1\Practica2_030920_ListValueTypes.pdb
