@@ -1,0 +1,10 @@
+D:\Documents\БАСО-02-19\Practica1_030920\bin\Debug\netcoreapp3.1\Practica1_030920_CreateStruct.exe
+D:\Documents\БАСО-02-19\Practica1_030920\bin\Debug\netcoreapp3.1\Practica1_030920_CreateStruct.deps.json
+D:\Documents\БАСО-02-19\Practica1_030920\bin\Debug\netcoreapp3.1\Practica1_030920_CreateStruct.runtimeconfig.json
+D:\Documents\БАСО-02-19\Practica1_030920\bin\Debug\netcoreapp3.1\Practica1_030920_CreateStruct.runtimeconfig.dev.json
+D:\Documents\БАСО-02-19\Practica1_030920\bin\Debug\netcoreapp3.1\Practica1_030920_CreateStruct.dll
+D:\Documents\БАСО-02-19\Practica1_030920\bin\Debug\netcoreapp3.1\Practica1_030920_CreateStruct.pdb
+D:\Documents\БАСО-02-19\Practica1_030920\obj\Debug\netcoreapp3.1\Practica1_030920_CreateStruct.AssemblyInfoInputs.cache
+D:\Documents\БАСО-02-19\Practica1_030920\obj\Debug\netcoreapp3.1\Practica1_030920_CreateStruct.AssemblyInfo.cs
+D:\Documents\БАСО-02-19\Practica1_030920\obj\Debug\netcoreapp3.1\Practica1_030920_CreateStruct.dll
+D:\Documents\БАСО-02-19\Practica1_030920\obj\Debug\netcoreapp3.1\Practica1_030920_CreateStruct.pdb

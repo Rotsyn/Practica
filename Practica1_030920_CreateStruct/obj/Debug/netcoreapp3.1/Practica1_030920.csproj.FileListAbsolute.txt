@@ -1,0 +1,11 @@
+D:\Documents\БАСО-02-19\Practica1_030920\bin\Debug\netcoreapp3.1\Practica1_030920.exe
+D:\Documents\БАСО-02-19\Practica1_030920\bin\Debug\netcoreapp3.1\Practica1_030920.deps.json
+D:\Documents\БАСО-02-19\Practica1_030920\bin\Debug\netcoreapp3.1\Practica1_030920.runtimeconfig.json
+D:\Documents\БАСО-02-19\Practica1_030920\bin\Debug\netcoreapp3.1\Practica1_030920.runtimeconfig.dev.json
+D:\Documents\БАСО-02-19\Practica1_030920\bin\Debug\netcoreapp3.1\Practica1_030920.dll
+D:\Documents\БАСО-02-19\Practica1_030920\bin\Debug\netcoreapp3.1\Practica1_030920.pdb
+D:\Documents\БАСО-02-19\Practica1_030920\obj\Debug\netcoreapp3.1\Practica1_030920.csprojAssemblyReference.cache
+D:\Documents\БАСО-02-19\Practica1_030920\obj\Debug\netcoreapp3.1\Practica1_030920.AssemblyInfoInputs.cache
+D:\Documents\БАСО-02-19\Practica1_030920\obj\Debug\netcoreapp3.1\Practica1_030920.AssemblyInfo.cs
+D:\Documents\БАСО-02-19\Practica1_030920\obj\Debug\netcoreapp3.1\Practica1_030920.dll
+D:\Documents\БАСО-02-19\Practica1_030920\obj\Debug\netcoreapp3.1\Practica1_030920.pdb
