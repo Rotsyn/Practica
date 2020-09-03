@@ -1,0 +1,11 @@
+D:\Documents\БАСО-02-19\Practica3_030920_SortString\bin\Debug\netcoreapp3.1\Practica3_030920_SortString.exe
+D:\Documents\БАСО-02-19\Practica3_030920_SortString\bin\Debug\netcoreapp3.1\Practica3_030920_SortString.deps.json
+D:\Documents\БАСО-02-19\Practica3_030920_SortString\bin\Debug\netcoreapp3.1\Practica3_030920_SortString.runtimeconfig.json
+D:\Documents\БАСО-02-19\Practica3_030920_SortString\bin\Debug\netcoreapp3.1\Practica3_030920_SortString.runtimeconfig.dev.json
+D:\Documents\БАСО-02-19\Practica3_030920_SortString\bin\Debug\netcoreapp3.1\Practica3_030920_SortString.dll
+D:\Documents\БАСО-02-19\Practica3_030920_SortString\bin\Debug\netcoreapp3.1\Practica3_030920_SortString.pdb
+D:\Documents\БАСО-02-19\Practica3_030920_SortString\obj\Debug\netcoreapp3.1\Practica3_030920_SortString.csprojAssemblyReference.cache
+D:\Documents\БАСО-02-19\Practica3_030920_SortString\obj\Debug\netcoreapp3.1\Practica3_030920_SortString.AssemblyInfoInputs.cache
+D:\Documents\БАСО-02-19\Practica3_030920_SortString\obj\Debug\netcoreapp3.1\Practica3_030920_SortString.AssemblyInfo.cs
+D:\Documents\БАСО-02-19\Practica3_030920_SortString\obj\Debug\netcoreapp3.1\Practica3_030920_SortString.dll
+D:\Documents\БАСО-02-19\Practica3_030920_SortString\obj\Debug\netcoreapp3.1\Practica3_030920_SortString.pdb
