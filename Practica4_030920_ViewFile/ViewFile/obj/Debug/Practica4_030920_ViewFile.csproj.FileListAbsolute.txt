@@ -1,0 +1,8 @@
+D:\Documents\БАСО-02-19\Practica4_030920_ViewFile\ViewFile\bin\Debug\ViewFile.exe
+D:\Documents\БАСО-02-19\Practica4_030920_ViewFile\ViewFile\bin\Debug\ViewFile.pdb
+D:\Documents\БАСО-02-19\Practica4_030920_ViewFile\ViewFile\obj\Debug\Practica4_030920_ViewFile.csprojAssemblyReference.cache
+D:\Documents\БАСО-02-19\Practica4_030920_ViewFile\ViewFile\obj\Debug\ViewFile.Form1.resources
+D:\Documents\БАСО-02-19\Practica4_030920_ViewFile\ViewFile\obj\Debug\ViewFile.Properties.Resources.resources
+D:\Documents\БАСО-02-19\Practica4_030920_ViewFile\ViewFile\obj\Debug\Practica4_030920_ViewFile.csproj.GenerateResource.cache
+D:\Documents\БАСО-02-19\Practica4_030920_ViewFile\ViewFile\obj\Debug\ViewFile.exe
+D:\Documents\БАСО-02-19\Practica4_030920_ViewFile\ViewFile\obj\Debug\ViewFile.pdb
