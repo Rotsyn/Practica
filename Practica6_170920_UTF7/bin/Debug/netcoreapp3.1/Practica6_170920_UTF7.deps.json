@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Practica6_170920_UTF7/1.0.0": {
+        "runtime": {
+          "Practica6_170920_UTF7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practica6_170920_UTF7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+D:\Documents\БАСО-02-19\Practica6_170920_UTF7\bin\Debug\netcoreapp3.1\Practica6_170920_UTF7.exe
+D:\Documents\БАСО-02-19\Practica6_170920_UTF7\bin\Debug\netcoreapp3.1\Practica6_170920_UTF7.deps.json
+D:\Documents\БАСО-02-19\Practica6_170920_UTF7\bin\Debug\netcoreapp3.1\Practica6_170920_UTF7.runtimeconfig.json
+D:\Documents\БАСО-02-19\Practica6_170920_UTF7\bin\Debug\netcoreapp3.1\Practica6_170920_UTF7.runtimeconfig.dev.json
+D:\Documents\БАСО-02-19\Practica6_170920_UTF7\bin\Debug\netcoreapp3.1\Practica6_170920_UTF7.dll
+D:\Documents\БАСО-02-19\Practica6_170920_UTF7\bin\Debug\netcoreapp3.1\Practica6_170920_UTF7.pdb
+D:\Documents\БАСО-02-19\Practica6_170920_UTF7\obj\Debug\netcoreapp3.1\Practica6_170920_UTF7.csprojAssemblyReference.cache
+D:\Documents\БАСО-02-19\Practica6_170920_UTF7\obj\Debug\netcoreapp3.1\Practica6_170920_UTF7.AssemblyInfoInputs.cache
+D:\Documents\БАСО-02-19\Practica6_170920_UTF7\obj\Debug\netcoreapp3.1\Practica6_170920_UTF7.AssemblyInfo.cs
+D:\Documents\БАСО-02-19\Practica6_170920_UTF7\obj\Debug\netcoreapp3.1\Practica6_170920_UTF7.dll
+D:\Documents\БАСО-02-19\Practica6_170920_UTF7\obj\Debug\netcoreapp3.1\Practica6_170920_UTF7.pdb
